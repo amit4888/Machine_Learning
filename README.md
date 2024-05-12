@@ -1,2 +1,4 @@
 # Machine_Learning
+Supervused_Learning
 Unsupervised_Learning
+Reinforcement_Learning
